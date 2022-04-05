@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: "Plus Jakarta Sans";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-image: linear-gradient(
+    to right top,
+    #6d327c,
+    #485da6,
+    #00a1ba,
+    #00bf98,
+    #36c486
+  );
+  height: 100vh; */
+}
+@font-face {
+  font-family: "Plus Jakarta Sans";
+  font-weight: 800;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

@@ -1,0 +1,17 @@
+.primary-bg {
+  background-color: #041c32;
+}
+.primary-text {
+  color: #041c32;
+}
+
+.secondary-bg {
+  background-color: #ecb365;
+}
+.secondary-text {
+  color: #ecb365;
+}
+
+.primary-border {
+  border: 1px solid #041c32;
+}
